@@ -1,0 +1,21 @@
+{
+    "name": "ninty9/super-gw",
+    "description": "package used for facilitating development with several gateways",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Fadi Ramzi",
+            "email": "fadiramzi.99@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "ninty9\\superGW\\": "src/"
+        }
+    },
+    "require": {
+        "guzzlehttp/guzzle": "^7.3",
+        "firebase/php-jwt": "dev-master" 
+    }
+}
