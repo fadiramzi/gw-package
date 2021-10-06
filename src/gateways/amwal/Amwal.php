@@ -5,6 +5,7 @@ namespace ninty9\superGW\gateways\amwal;
 use ninty9\superGW\HttpC\Request;
 
 class Amwal{
+    
     private $_client;
     private $_response;
     private $_host;
