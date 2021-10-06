@@ -1,5 +1,5 @@
 <?php
-namespace ninty9\superGW\gateways\Aps;
+namespace ninty9\superGW\gateways\aps;
 
 use ninty9\superGW\HttpC\Request;
 

@@ -1,5 +1,5 @@
 <?php
-namespace ninty9\superGW\gateways\SwitchGW;
+namespace ninty9\superGW\gateways\switchGW;
 
 use ninty9\superGW\HttpC\Request;
 
