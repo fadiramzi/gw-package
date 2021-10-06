@@ -3,7 +3,7 @@ namespace ninty9\superGW;
 
 use ninty9\superGW\gateways\amwal\Amwal;
 use ninty9\superGW\gateways\aps\Aps;
-use ninty9\superGW\gateways\SwitchGW\SwitchGW;
+use ninty9\superGW\gateways\switchGW\SwitchGW;
 use ninty9\superGW\gateways\zaincash\ZainCash;
 
 
